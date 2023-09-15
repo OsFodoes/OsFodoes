@@ -3,6 +3,7 @@ Nós somos os fodões
 -Guilherme Nunes
 -Otton Araújo
 -Guilherme Nunes
+-Carlos André
 Estamos estudando várias linguagens e tecnologias para o desenvolvimento dos nossos PPO`s, a Prática Profissional Orientada(PPO).
 Atualmente o que mais sabemos é java por ter sido a linguagem principal estudada no curso integrado do ensino médio.
 <!---
